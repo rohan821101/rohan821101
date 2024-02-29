@@ -3,8 +3,8 @@
 -->coding
 --> and exploring new feilds and opportunities in coding, learnig new skills too.
 - 🌱 I’m currently learning 
--->Java 
--->web development.
+-->Python 
+-->Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 --> insta id-> https://www.instagram.com/rohanraj821101/
