@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning 
 -->Python 
 -->Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning/ Data Science/ GenAI
 - 📫 How to reach me 
 --> insta id-> https://www.instagram.com/rohanraj821101/
---> lnkedin id-> https://www.linkedin.com/in/rohan-raj-1b3b221b7/
+--> lnkedin id-> https://www.linkedin.com/in/rohan-raj-bbu/
 
 <!---
 rohan821101/rohan821101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
